@@ -12,7 +12,7 @@ BuildRequires:	pkgconfig
 BuildRequires:	tar >= 1:1.22
 BuildRequires:	xz
 BuildRequires:	zlib-devel
-Requires:	apk-tools >= 2.0.7-r1
+Requires:	apk-tools >= 2.10.3-3
 Requires:	attr
 Requires:	curl
 Requires:	fakeroot
